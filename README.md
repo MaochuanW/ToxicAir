@@ -1,1 +1,3 @@
-# ToxicAir
+# Geospatial Examination of Demographics, Air Quality, and Industrial Facilities in Minneapolis
+
+This groundbreaking project delves into the complex web of relationships between industrial facilities, demographics, and air quality in Minneapolis, shedding light on potential environmental justice issues and highlighting disparities in exposure to hazardous chemicals. By employing advanced geospatial analysis techniques, this study offers valuable insights for policymakers and community stakeholders, paving the way for targeted interventions and a more equitable distribution of environmental risks.
